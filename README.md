@@ -4,9 +4,9 @@
 - 🎓 Estou cursando Ciência de Dados pela Faculdade Estácio
 
 <div>
-  <a href="https://github.com/joao-pprimo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joao-pprimo&show_icons=false&theme=transparent&include_all_commits=true&count_private=true" /> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pprimo&layout=compact&langs_count=16&theme=transparent" />
+   <a href="https://github.com/joao-pprimo">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joao-pprimo&show_icons=false&theme=dark&include_all_commits=true&count_private=true" />
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pprimo&layout=compact&langs_count=16&theme=dark" />
 </div>
     
   ##
