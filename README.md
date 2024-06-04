@@ -5,8 +5,8 @@
 
 <div>
    <a href="https://github.com/joao-pprimo">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joao-pprimo&show_icons=false&theme=dark&include_all_commits=true&count_private=true" />
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pprimo&layout=compact&langs_count=16&theme=dark" />
+   <img height="170em" width="450em" src="https://github-readme-stats.vercel.app/api?username=joao-pprimo&show_icons=false&theme=dark&include_all_commits=true&count_private=true" />
+   <img height="200em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pprimo&layout=compact&langs_count=16&theme=dark" />
 </div>
     
   ##
