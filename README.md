@@ -1,10 +1,10 @@
 <h1 align="center">Olá, eu me chamo João Pedro de Oliveira Primo 👨🏻‍💻 
-<h3 align="center">Apaixonado por ciência e análise de dados</h3>
+<h3 align="center">Apaixonado por Ciência e Análise de dados!</h3>
 
      
-- 🧑🏻‍💼 Atualmente trabalho como Estagiário de Dados de RH
+- 🧑🏻‍💼 Trabalho como Estagiário de Dados de RH
 - 🎓 Estou cursando Ciência de Dados pela Faculdade Estácio
-- 🌱 Atualmente estou aprendendo **HTML e Java Script**
+- 🌱 Atualmente estou aprendendo sobre **HTML e Java Script**
 - 💬 Fale comigo sobre **SQL, Power BI, Excel e Python**
 
 <div>
