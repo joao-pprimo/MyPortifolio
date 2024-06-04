@@ -1,4 +1,4 @@
-## Olá, me chamo João Pedro de Oliveira Primo 👨🏻‍💻
+## Olá, eu me chamo João Pedro de Oliveira Primo 👨🏻‍💻
 
 - 🧑🏻‍💼 Atualmente trabalho como Estagiário de Dados de RH
 - 🎓 Estou cursando Ciência de Dados pela Faculdade Estácio
