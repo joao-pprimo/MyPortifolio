@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu me chamo João Pedro de Oliveira Primo 👨🏻‍💻 
-<h3 align="center">Apaixonado por Ciência e Análise de dados!</h3>
+<h3 align="center">Apaixonado por Análise e Ciência de dados!</h3>
 
      
 - 🧑🏻‍💼 Trabalho como Estagiário de Dados de RH
